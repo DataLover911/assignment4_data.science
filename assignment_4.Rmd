@@ -62,7 +62,7 @@ datasummary(growth + rgdp60 ~ treat*(Mean + Median + SD + Min + Max), data = Gro
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
-
+The table compares two groups based on the variables "growth" and "rgdp60." The first group, which had more than 0 revolutions, has a mean growth rate of 1.68 and a median growth rate of 1.92. The second group, with revolutions equal to 0, has a higher mean growth rate of 2.46 and a higher median growth rate of 2.29. It seems that the group without any revolutions experienced slightly higher average growth rates compared to the group with revolutions.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
